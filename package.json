@@ -1,0 +1,14 @@
+{
+  "name": "170429-three-js-from-2d-to-3d-sphere",
+  "version": "1.0.0",
+  "description": "Turning an image from 2d into 3d rotating sphere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Tsoi ( https://github.com/alextsoi ) @ K2 Digital [https://k2.digital]",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
